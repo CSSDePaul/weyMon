@@ -1,0 +1,1 @@
+Monitors windows registry keys
